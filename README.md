@@ -25,7 +25,15 @@ https://m.blog.naver.com/PostView.nhn?blogId=hist0134&logNo=221386940063&navType
 <img width="551" alt="feedforwardattention" src="https://user-images.githubusercontent.com/38748880/49410883-1e522100-f7aa-11e8-960a-c31ca51d5e28.png">
 
 
+
+
 <img width="298" alt="hierachicalattention" src="https://user-images.githubusercontent.com/38748880/49410897-24e09880-f7aa-11e8-81bc-5c551b6ef812.png">
 
 
+
+
+
 ![image](https://user-images.githubusercontent.com/38748880/49410969-696c3400-f7aa-11e8-87c9-ac8edc84ba73.png)
+
+
+
