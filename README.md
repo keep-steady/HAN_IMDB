@@ -7,9 +7,13 @@ An aexample of HAN from paper: http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierar
 
 Code was combined from two publickly available sources:
 https://gist.github.com/cbaziotis/7ef97ccf71cbc14366835198c09809d2
+
 https://github.com/richliao/textClassifier
+
 https://richliao.github.io/supervised/classification/2016/12/26/textclassifier-HATN/
+
 https://hist0134.blog.me/221179965199
+
 https://m.blog.naver.com/PostView.nhn?blogId=hist0134&logNo=221386940063&navType=tl
 
 
