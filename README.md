@@ -1,5 +1,5 @@
 
-###HAN 
+HAN 
 An aexample of HAN from paper: http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf. ,  NAACL-HLT, 16'
 
 Code was combined from two publickly available sources:
