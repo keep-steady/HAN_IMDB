@@ -16,7 +16,7 @@ https://hist0134.blog.me/221179965199
 
 https://m.blog.naver.com/PostView.nhn?blogId=hist0134&logNo=221386940063&navType=tl
 
-
+설명 : http://hugrypiggykim.com/2018/05/31/han-hierarchical-attention-networks-for-document-classification/
 
 
 1) data 폴더에 labeledTrainData.tsv 필요
