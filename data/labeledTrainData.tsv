@@ -1,0 +1,5 @@
+labeledTrainData.tsv  imdb 데이타 이 폴더에 다운
+
+# data : imdb unzip하여 다운
+# wget https://www.kaggle.com/c/word2vec-nlp-tutorial/download/labeledTrainData.tsv
+# 이름바꾸고 unzip
