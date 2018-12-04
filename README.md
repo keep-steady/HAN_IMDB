@@ -1,9 +1,8 @@
 
-HAN 
--http://www.aclweb.org/anthology/N16-1174,  NAACL-HLT, 16'
+###HAN 
+An aexample of HAN from paper: http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf. ,  NAACL-HLT, 16'
 
-An aexample of Hierarchical Attention Network (chars >> words >> prediction) from paper: http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf. Code was combined from two publickly available sources:
-
+Code was combined from two publickly available sources:
 https://gist.github.com/cbaziotis/7ef97ccf71cbc14366835198c09809d2
 https://github.com/richliao/textClassifier
 https://richliao.github.io/supervised/classification/2016/12/26/textclassifier-HATN/
